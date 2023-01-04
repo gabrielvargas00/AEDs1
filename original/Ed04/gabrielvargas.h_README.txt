@@ -1,0 +1,11 @@
+Oi, Theldo!
+
+Igual ao que tinha mostrado e conversado com voce durante a aula no laboratorio da semana, 
+a biblioteca "gabrielvargas.h" - criada a partir do EXEMPLO0411 - contem grande parte das 
+funcoes referentes ao ED04.
+
+Alem disso, nela, adicionei algumas outras funcoes que podem ser uteis 
+(inclusive, usei algumas durante a contrucao das pedidas nos exercicios).
+
+Eu optei por organizar pela semelhaca e/ou por um eixo em comum, por isso nao 
+esta' na ordem dos exercicios.

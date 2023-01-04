@@ -1,0 +1,6 @@
+1 beeper at (4,7);
+1 beeper at (5,7);
+1 beeper at (5,7);
+1 beeper at (6,7);
+1 beeper at (6,7);
+1 beeper at (6,7);

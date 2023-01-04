@@ -1,0 +1,50 @@
+Linha lida     = [Exemplo 0720:]
+Digito maior 6 = [7]
+Resultado      = 1
+
+Linha lida     = [Gabriel Vargas 18]
+Digito maior 6 = [8]
+Resultado      = 1
+
+Linha lida     = [17 / 08 / 2003]
+Digito maior 6 = [78]
+Resultado      = 2
+
+Linha lida     = [0123456789]
+Digito maior 6 = [789]
+Resultado      = 3
+
+Linha lida     = [99887766]
+Digito maior 6 = [998877]
+Resultado      = 6
+
+Linha lida     = [7 * 7 = 49]
+Digito maior 6 = [779]
+Resultado      = 3
+
+Linha lida     = [@#$%& = 23457]
+Digito maior 6 = [7]
+Resultado      = 1
+
+Linha lida     = [0800]
+Digito maior 6 = [8]
+Resultado      = 1
+
+Linha lida     = [Linha em branco:]
+Digito maior 6 = []
+Resultado      = 0
+
+Linha lida     = []
+Digito maior 6 = []
+Resultado      = 0
+
+Linha lida     = [9 * 9 = 81 = 77 + 4    ]
+Digito maior 6 = [99877]
+Resultado      = 5
+
+Linha lida     = [parar:]
+Digito maior 6 = []
+Resultado      = 0
+
+Total de digitos maior 6 = [78787899988777797899877]
+Resultado final          = 23

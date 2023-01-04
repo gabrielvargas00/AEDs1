@@ -1,0 +1,25 @@
+Termos  somados  =  1	 Soma atual = 0.012346
+Termos  somados  =  2	 Soma atual = 0.049383
+Termos  somados  =  3	 Soma atual = 0.160494
+Termos  somados  =  4	 Soma atual = 0.493827
+Termos  somados  =  5	 Soma atual = 1.493827
+Quantidade total =  5	 Soma final = 1.493827
+
+Quantidade total = -2	 ERRO: Valor invalido!
+
+Termos  somados  =  1	 Soma atual = 0.012346
+Termos  somados  =  2	 Soma atual = 0.049383
+Termos  somados  =  3	 Soma atual = 0.160494
+Quantidade total =  3	 Soma final = 0.160494
+
+Quantidade total =  6	 ERRO: Valor invalido!
+
+Termos  somados  =  1	 Soma atual = 0.012346
+Quantidade total =  1	 Soma final = 0.012346
+
+Termos  somados  =  1	 Soma atual = 0.012346
+Termos  somados  =  2	 Soma atual = 0.049383
+Quantidade total =  2	 Soma final = 0.049383
+
+Quantidade total =  0	 ERRO: Valor invalido!
+

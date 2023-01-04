@@ -1,0 +1,7 @@
+Quantidade =  1	 Resultado = 1.000000
+Quantidade =  3	 Resultado = 1.625000
+Quantidade =  5	 Resultado = 1.664063
+Quantidade =  0	 ERRO: Valor invalido
+Quantidade = -1	 ERRO: Valor invalido
+Quantidade =  6	 ERRO: Valor invalido
+Quantidade =  4	 Resultado = 1.656250

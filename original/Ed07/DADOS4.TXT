@@ -1,0 +1,13 @@
+1 = 1
+2 = 4
+3 = 9
+
+5 =
+6 = ABC
+7 = def
+8 = @$%
+pArAr
+parar
+PARA R 
+PARAR AGORA
+PARAR

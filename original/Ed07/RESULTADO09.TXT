@@ -1,0 +1,38 @@
+Linha lida = [PaReDe de TiJoLoS VerMElHOS]
+Maiusculas = [PRDTJLSVMEHOS]
+Resultado  = 13
+
+Linha lida = [Gabriel Vargas Bento de Souza]
+Maiusculas = [GVBS]
+Resultado  = 4
+
+Linha lida = [AED1 - 06/05/2022]
+Maiusculas = [AED]
+Resultado  = 3
+
+Linha lida = [exemplo0719]
+Maiusculas = []
+Resultado  = 0
+
+Linha lida = [Linha em branco abaixo:]
+Maiusculas = [L]
+Resultado  = 1
+
+Linha lida = []
+Maiusculas = []
+Resultado  = 0
+
+Linha lida = [123 $%# abc]
+Maiusculas = []
+Resultado  = 0
+
+Linha lida = [PUC MINAS - COREU]
+Maiusculas = [PUCMINASCOREU]
+Resultado  = 13
+
+Linha lida = [Proxima linha e' PARAR]
+Maiusculas = [PPARAR]
+Resultado  = 6
+
+Total de maiusculas = [PRDTJLSVMEHOSGVBSAEDLPUCMINASCOREUPPARAR]
+Resultado final     = 40

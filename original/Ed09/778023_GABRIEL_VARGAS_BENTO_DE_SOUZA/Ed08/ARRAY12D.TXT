@@ -1,0 +1,1 @@
+ERRO: Nao ha' valores pares positivos no arranjo.
